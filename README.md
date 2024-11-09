@@ -1,4 +1,4 @@
-## FrontEnd 개발, 하고 있습니다.
+## FrontEnd 개발, 하고 있습니다...
 
 <a href="https://github.com/devxb/gitanimals">
   <img
