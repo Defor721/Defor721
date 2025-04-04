@@ -1,4 +1,4 @@
-## 풀스택이 되고 싶은 프론트...
+## 풀스택하고싶습니다.
 
 <a href="https://github.com/devxb/gitanimals">
   <img
