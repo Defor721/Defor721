@@ -1,4 +1,4 @@
-## Nest 고수가 될거야
+## Nest GOSU가 될거야
 
 ## 🧠 Tech Stack
 - **Frontend**: React, Next.js, TypeScript
