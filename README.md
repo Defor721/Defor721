@@ -1,4 +1,4 @@
-## Nest GOSU가 될거야
+## NestJS GOSU가 될거야
 
 ## 🧠 Tech Stack
 - **Frontend**: React, Next.js, TypeScript
