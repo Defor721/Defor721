@@ -1,4 +1,4 @@
-## Nest고수가 될거야
+## Nest 고수가 될거야
 포트폴리오 - https://retrofolio-psi.vercel.app/
 <a href="https://github.com/devxb/gitanimals">
   <img
