@@ -6,10 +6,11 @@
 - **Database**: MongoDB
   
 | 포트폴리오 | [🔗 바로가기](https://retrofolio-psi.vercel.app/) |
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/farms/Defor721"
-    width="1200"
+    width="1800"
     height="240"
   />
 </a>
