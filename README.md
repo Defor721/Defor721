@@ -1,4 +1,4 @@
-## NestJS GOSU가 될거야
+## 풀스택 개발자입니다
 
 ## 🧠 Tech Stack
 - **Frontend**: React, Next.js, TypeScript
