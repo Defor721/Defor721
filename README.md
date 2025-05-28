@@ -1,4 +1,4 @@
-## 풀스택 개발자입니다
+## 풀스택 개발자로 일하고 싶습니다
 
 ## 🧠 Tech Stack
 - **Frontend**: React, Next.js, TypeScript
